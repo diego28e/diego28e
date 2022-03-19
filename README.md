@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Diego
 - 👀 I’m interested in JavaScript and Python programming.
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on various python projects
+- 💞️ I’m looking to collaborate on various JavaScript projects
 - 📫 You can reach me at diego28e@gmail.com
 
 <!---
