@@ -38,7 +38,7 @@
 ## Full Stack Developer
 
 <details>
-  <summary>Description</summary>
+  <summary>Profile Description</summary>
   <p>
     👋 Hi there. Welcome to my GitHub profile! I am a full stack developer with expertise in backend development. Here you can find some of my projects and contributions.
   </p>
