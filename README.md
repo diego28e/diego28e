@@ -1,39 +1,24 @@
 ![Banner](https://github.com/diego28e/diego28e/raw/main/github-banner-diego.png)
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx"/>
-      <br>Nginx
-    </td>
-  </tr>
-</table>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios/48/ffffff/maven-ios.png" alt="Apache" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx" />
 </div>
+
+
 
 ## Full Stack Developer
 
@@ -52,7 +37,8 @@
 </details>
 
 ## Projects
-
+<details>
+    <summary>Check some of my sample projects</summary>
 <div align="center">
   <table>
     <tr>
@@ -80,6 +66,7 @@
     </tr>
   </table>
 </div>
+</details>
 <!---
 diego28e/diego28e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
