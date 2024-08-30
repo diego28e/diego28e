@@ -52,8 +52,9 @@
       </td>
       <td align="center" width="300">
         <div style="width: 300px; height: 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px;">
-          <h3>Budget Tracker App - It'll be available again soon</h3>
-          <p>This app will help you keep track of your monthly incomes and expenses in an easy way. The app is currently unavailable since I recently decided to turn off the AWS RDS database and use another database service instead. It'll be back using react for a brand new user interface</p>
+          <h3>Budget Tracker App - It'll be using React js soon</h3>
+          <img style="width:100px" src="https://img.icons8.com/?size=100&id=OmXGmC6uyOd1&format=png&color=000000" alt="piggy-bank">
+          <p>This app will help you keep track of your monthly incomes and expenses in an easy way. This project leverages nodejs-express and postgresql for helping you manage your monthly income and expenses. It'll soon be refactored using react js and will include additional functionalities.</p>
           <a href="https://academiadelcodigo.com/" target="_blank">View Project</a>
         </div>
       </td>
