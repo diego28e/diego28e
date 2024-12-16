@@ -53,18 +53,18 @@
       <td align="center" width="300">
         <div style="width: 300px; height: 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px;">
           <h3>Budget Tracker App - It'll be using React js soon</h3>
-          <img style="width:100px" src="https://img.icons8.com/?size=100&id=OmXGmC6uyOd1&format=png&color=000000" alt="piggy-bank">
+          <img style="width:100px;box-shadow:0px 0px 10px 0px black;" src="https://img.icons8.com/?size=100&id=OmXGmC6uyOd1&format=png&color=#1ffebd" alt="piggy-bank">
           <p>This app will help you keep track of your monthly incomes and expenses in an easy way. This project leverages nodejs-express and postgresql for helping you manage your monthly income and expenses. It'll soon be refactored using react js and will include additional functionalities.</p>
           <a href="https://prosperity.academiadelcodigo.com" target="_blank">View Project</a>
         </div>
       </td>
-      <!-- <td align="center" width="300">
+      <td align="center" width="300">
         <div style="width: 300px; height: 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px;">
-          <h3>Serverless Project 3</h3>
-          <p>Serverless application using AWS Lambda, API Gateway, and DynamoDB for scalable backend services.</p>
-          <a href="https://github.com/diego28e/project3" target="_blank">View Project</a>
+          <h3>AWS Quiz React App</h3>
+          <p>This aws quiz (react) app will help you prepare for your AWS Cloud practitioner exam. It includes three different mock test, and you'll be able to choose between 'Practice Mode' which doesn't have any time limit, and 'Exam Mode' which includes a time limit per question so that you challenge yourself to answer each question fast and use overall time effeciently.</p>
+          <a href="https://aws-quiz.academiadelcodigo.com" target="_blank">View Project</a>
         </div>
-      </td> -->
+      </td>
     </tr>
   </table>
 </div>
