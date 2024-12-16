@@ -28,7 +28,7 @@
     👋 Hi there. Welcome to my GitHub profile! I am a full stack developer with expertise in backend development. Here you can find some of my projects and contributions.
   </p>
   <ul>
-    <li>🔭 I’m currently working as a full stack developer in the education field, managing servers, maintaining and updating web apps, and building custom solutions to enhace students' foreign language learning process.</li>
+    <li>🔭 I’m currently working as a full stack developer in the education field, managing servers, maintaining and updating web apps, and building custom solutions to enhace students' foreign language learning process. I'm currently certified as an AWS Cloud Practitioner, and also enjoy leveraging other cloud solutions like Google Cloud.</li>
     <li>🌱 I’m passionate about learning new things all the time and right now I'm learning about cloudformation</li>
     <li>👯 I’m looking to collaborate on projects that allow me to contribute as a team  member and hone my backend development skills</li>
     <li>💬 Ask me about: AWS, integrations, and innovating solutions for automating processes in a business</li>
