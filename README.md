@@ -44,10 +44,10 @@
     <tr>
       <td align="center" width="300">
         <div style="width: 300px; height: 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px;">
-          <h3>Free Serverless Dictionary</h3>
-          <img style="width:100px" src="https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/512x512/dictionary.png" alt="dictionary">
-          <p>This project is an English dictionary application built using Node.js and AWS. It leverages a serverless infrastructure with AWS Lambda, API Gateway, and CloudFormation for deployment and management. The application allows users to search for English words and retrieve definitions, phonetic transcriptions, and example usages. The frontend is built using EJS templates, and the backend is powered by Express.js</p>
-          <a href="https://wmmxkxj6bc.execute-api.us-east-1.amazonaws.com/dev/" target="_blank">View Project</a>
+          <h3>Polyglotas</h3>
+          <img style="width:100px" src="https://academia-del-codigo.s3.us-east-1.amazonaws.com/Logo-polyglotas2.png" alt="Polyglotas logo">
+          <p>This is a language learning app that features three different activity types which are dictation, pronuncition assessment with phoneme level feedback and spontaneous conversation with ai (Speech to text and Text to speech technologies). This app leverages the three major cloud providers (AWS, Google Cloud and Azure) to power the awesome functionalities it offers to language learners.</p>
+          <a href="https://polyglotas.com" target="_blank">View Project</a>
         </div>
       </td>
       <td align="center" width="300">
@@ -63,6 +63,14 @@
           <h3>AWS Quiz React App</h3>
           <p>This aws quiz (react) app will help you prepare for your AWS Cloud practitioner exam. It includes three different mock test, and you'll be able to choose between 'Practice Mode' which doesn't have any time limit, and 'Exam Mode' which includes a time limit per question so that you challenge yourself to answer each question fast and use overall time effeciently.</p>
           <a href="https://aws-quiz.academiadelcodigo.com" target="_blank">View Project</a>
+        </div>
+      </td>
+            <td align="center" width="300">
+        <div style="width: 300px; height: 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px;">
+          <h3>Free Serverless Dictionary</h3>
+          <img style="width:100px" src="https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/512x512/dictionary.png" alt="dictionary">
+          <p>This project is an English dictionary application built using Node.js and AWS. It leverages a serverless infrastructure with AWS Lambda, API Gateway, and CloudFormation for deployment and management. The application allows users to search for English words and retrieve definitions, phonetic transcriptions, and example usages. The frontend is built using EJS templates, and the backend is powered by Express.js</p>
+          <a href="https://wmmxkxj6bc.execute-api.us-east-1.amazonaws.com/dev/" target="_blank">View Project</a>
         </div>
       </td>
     </tr>
