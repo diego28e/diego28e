@@ -52,10 +52,10 @@
       </td>
       <td align="center" width="300">
         <div style="width: 300px; height: 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px;">
-          <h3>Budget Tracker App - It'll be using React js soon</h3>
-          <img style="width:100px;box-shadow:0px 0px 10px 0px black;" src="https://img.icons8.com/?size=100&id=OmXGmC6uyOd1&format=png&color=#1ffebd" alt="piggy-bank">
-          <p>This app will help you keep track of your monthly incomes and expenses in an easy way. This project leverages nodejs-express and postgresql for helping you manage your monthly income and expenses. It'll soon be refactored using react js and will include additional functionalities.</p>
-          <a href="https://prosperity.academiadelcodigo.com" target="_blank">View Project</a>
+          <h3>Script Playground</h3>
+          <img style="width:100px;box-shadow:0px 0px 10px 0px black;" src="https://academia-del-codigo.s3.us-east-1.amazonaws.com/script-playground-favicon.png" alt="Script-Playground-logo">
+          <p>This app features a custom browser-based IDE with real-time JavaScript execution and an integrated AI mentor to help you practice algorightms and help you understand code execution line by line. Tech Stack: Next.js 16, TypeScript, Prisma, PostgreSQL, AWS Amplify, Tailwind CSS 4.</p>
+          <a href="https://academiadelcodigo.com" target="_blank">View Project</a>
         </div>
       </td>
       <td align="center" width="300">
