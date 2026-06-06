@@ -30,7 +30,7 @@
 
 I'm an **AI-focused full stack engineer** based in Medellín, Colombia. For the last **6 years** I've been the **founding engineer** of a language-learning platform — building every system from a blank slate and keeping it online at **99.98% uptime**. These days most of my time goes into shipping **AI-native features that change how a product actually works**: real-time voice tutors, vision-based document processing, RAG pipelines, and agentic workflows — core capabilities, not bolt-ons.
 
-- 🔭 &nbsp;**Currently** — Founding Engineer @ Idiomas OCW, building an AI-native LMS (NestJS · React 19 · AWS CDK)
+- 🔭 &nbsp;**Currently** — Lead Engineer @ Idiomas OCW, building an AI-native LMS (NestJS · React 19 · AWS CDK)
 - 🤖 &nbsp;**I love** — turning multimodal LLMs (Gemini, OpenAI) into real product features with LiveKit, ElevenLabs & pgvector
 - 🌱 &nbsp;**Exploring** — agentic workflows, voice agents, and zero-downtime infra on a single, cost-conscious stack
 - 💬 &nbsp;**Ask me about** — AI integration, real-time voice tutors, AWS architecture, and shipping fast as a small team
@@ -87,7 +87,41 @@ I'm an **AI-focused full stack engineer** based in Medellín, Colombia. For the 
 <table>
   <tr>
     <td colspan="2">
-      <h3>🗣️ Polyglotas <sub>— flagship</sub></h3>
+      <h3>🎓 Idiomas OCW — AI-Native Language Learning LMS <sub>— flagship · production</sub></h3>
+      <p>A full multilingual LMS built end-to-end: self-paced courses, Stripe billing, and BigBlueButton live classrooms. Ships a <b>real-time AI Voice Tutor</b> via Gemini Live + LiveKit with server-controlled session timing, long-term memory via Zep, and a BullMQ-driven automated evaluation pipeline. Includes multimodal <b>WhatsApp AI agents</b> (sales + support) using Gemini 2.5 Flash with function-calling for live pricing, OGG voice-note transcription, and pgvector-backed RAG. An automated micro-lesson pipeline parses diarized ElevenLabs class transcripts to extract vocabulary and schedules timezone-aware WhatsApp practice sessions. Deployed on a cost-conscious single-stack AWS CDK infrastructure with zero-downtime blue-green Docker deployments behind Caddy, monitored via CloudWatch + SNS.</p>
+      <p>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/AWS_CDK-F90?style=flat-square&logo=amazonwebservices&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_Live-8E75FF?style=flat-square&logo=googlegemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/LiveKit-1FD5C7?style=flat-square&logo=livekit&logoColor=white" />
+        <img src="https://img.shields.io/badge/pgvector_RAG-31648C?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/BullMQ-FF4154?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <a href="https://www.onecultureworld.com"><b>Live →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3>🎬 Cinematic GenAI Video Pipeline <sub>— cross-cloud · GPU</sub></h3>
+      <p>A GPU-backed Python service (FastAPI) running on GCP that turns a structured scene script into a cinematic short video (~5 min) with strong recurring-character identity consistency. Accepts scene jobs from the NestJS orchestrator on AWS, generates identity-consistent keyframes, animates them into clips, assembles an <code>.mp4</code>, muxes ElevenLabs narration so total length matches audio exactly, uploads to S3, and webhooks back the CloudFront URL. Currently pivoting to <b>Wan 2.2</b> real video generation with a Continuity Director and video-native face-ID on an A100-class GPU.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+        <img src="https://img.shields.io/badge/GCP_Compute-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white" />
+        <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white" />
+        <img src="https://img.shields.io/badge/NVIDIA_L4_GPU-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+      </p>
+      <a href="https://github.com/diego28e/ai-video-generation-pipeline"><b>Repo →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3>🗣️ Polyglotas <sub>— production</sub></h3>
       <p>An AI language-learning platform with three core activities: <b>dictation</b>, <b>pronunciation assessment with phoneme-level feedback</b>, and <b>spontaneous AI conversation</b> (speech-to-text &amp; text-to-speech). Orchestrates all three major clouds — AWS, Google Cloud &amp; Azure — to power its features.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
