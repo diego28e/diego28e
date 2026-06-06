@@ -152,8 +152,8 @@ I'm an **AI-focused full stack engineer** based in Medellín, Colombia. For the 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diego28e&show_icons=true&theme=tokyonight&bg_color=0A0E1A&title_color=2DD4BF&icon_color=A78BFA&text_color=CBD5E1&border_color=1e293b&rank_icon=github&hide_border=false" alt="Diego's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego28e&layout=compact&theme=tokyonight&bg_color=0A0E1A&title_color=2DD4BF&text_color=CBD5E1&border_color=1e293b&hide_border=false" alt="Most Used Languages" height="180" />
+  <img src="https://github-readme-stats-nine-dusky-92.vercel.app/api?username=diego28e&show_icons=true&theme=tokyonight&bg_color=0A0E1A&title_color=2DD4BF&icon_color=A78BFA&text_color=CBD5E1&border_color=1e293b&rank_icon=github&include_all_commits=true&hide_border=false" alt="Diego's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-nine-dusky-92.vercel.app/api/top-langs/?username=diego28e&layout=compact&theme=tokyonight&bg_color=0A0E1A&title_color=2DD4BF&text_color=CBD5E1&border_color=1e293b&hide_border=false" alt="Most Used Languages" height="180" />
 </div>
 
 <div align="center">
