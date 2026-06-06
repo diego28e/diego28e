@@ -18,7 +18,9 @@
   <a href="https://polyglotas.com/">
     <img src="https://img.shields.io/badge/Polyglotas-0B1020?style=for-the-badge&logo=googlechrome&logoColor=2DD4BF" alt="Polyglotas" />
   </a>
-  <img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/ab29fcec227b4dca90808ec24776dbb2">
+    <img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=diego28e&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
